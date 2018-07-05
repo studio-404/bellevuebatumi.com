@@ -1,0 +1,37 @@
+.HeaderDiv .LogoDiv .InfoRotate .Text {
+	font-size: 26px;
+}
+
+* {
+	font-family:CalibriBold !important;
+}
+
+.fa {
+	font-family:FontAwesome !important;
+}
+
+.TextAndImageDiv .Info .Text,
+.BenefitsListDiv .Item .Text,
+.TechnilDetailsListDiv .Item .Text,
+.RoomsHomeSlide .Item .Info .Text {
+	font-size: 15px;
+}
+.TextAndImageDiv .Info .Text *,
+.BenefitsListDiv .Item .Text *,
+.TechnilDetailsListDiv .Item .Text *,
+.RoomsHomeSlide .Item .Info .Text *,
+.Text li {
+	font-family:Calibri !important;
+     
+}
+
+
+.InsideMenu li a {
+    font-size: 13px;
+    font-family: Calibri !important;
+}
+
+.SmallTextWIdth div span p{
+	font-family:Calibri !important;
+	    font-size: 13.5px
+}

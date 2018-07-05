@@ -1,0 +1,20 @@
+#Options +FollowSymLinks
+IndexIgnore */*
+RewriteEngine On
+DirectoryIndex index.html
+# images|styles|scripts|uploads|_manager|_website|_cache|
+RewriteRule ^(images|styles|scripts|uploads|flash|_manager|_website|img|_javascript|.*\.(pem|doc|docx|xls|xlsx|css|js|jpg|JPG|mp3|jpeg|JPEG|gif|GIF|swf|xml|png|PNG|pdf|ico|zip|rar|php|html|txt|sql)) - [L]
+RewriteCond %{REQUEST_FILENAME} !-f [OR]
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . index.php [QSA,L]
+# block access to some sensible files
+<Files ~ "^sftp-config.json|.gitignore|.sass-cache|.htaccess|.git|node_modules">
+  Order allow,deny
+  Deny from all
+</Files>
+
+# force non-www domain
+RewriteCond %{HTTP_HOST} ^www\.batumi-marathon\.com$ [NC]
+RewriteRule (.*) http://batumi-marathon.com/$1 [R=301,L]
+php_value default_charset utf-8
+AddType 'text/html; charset=utf-8' .html .htm .shtml

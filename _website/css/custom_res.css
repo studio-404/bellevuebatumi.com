@@ -1,0 +1,1510 @@
+@media (max-width:992px) {
+ 	.HomeRoomsDiv {
+		padding-top: 30px;
+		padding-bottom: 240px !important; 
+	}
+	
+.RequestCallButtonParent {
+	display:none;
+}
+	
+ 
+	#section0 .Full100 {
+		height: 100%;
+		top: 40px;
+	}
+	
+	#section1 .fp-section,
+	#section1 .fp-slide,
+	#section1 .fp-tableCell,
+	#section2 .fp-section,
+	#section2 .fp-slide,
+	#section2 .fp-tableCell {
+		height: auto !important;
+	}
+
+	.HomePage2 {
+		padding-top:0 !important;
+	}
+	.HomePage2 .TitleDiv {
+		 
+	}
+	.TextAndImageDiv .Info {
+		
+	}
+	.TextAndImageDiv .Info .Title {
+		margin-left:0 !important;
+		margin-bottom:30px;
+	}
+	
+	
+	.HomePage2 .col-sm-6.padding_0 {
+		padding:0 15px !important;
+	}
+	 
+	
+	.HeaderDiv {
+		position:fixed;
+		z-index: 99999999;
+	}
+	.RightHeader {
+		display:block;
+		z-index:999999;
+		top:0;
+		right:0;
+	}
+	.HeaderButtons {
+		display:none
+	}
+	.RightHeader .ShareDiv {display:none;}
+	.RightHeader .HamburgerDiv {
+		width:60px;
+		height:60px;
+		background:#eeb552;
+		border:none;
+	}
+	.RightHeader .HamburgerDiv::before {
+		width:25px;
+		background:#fff;
+		left: 18px;
+		top: 25px;
+	}
+	.RightHeader .HamburgerDiv::after {
+		width:25px;
+		background:#fff;
+		left: 18px;
+		top: 32px;
+	}
+	.RequestCallButton {
+		display:none;
+	}
+	.SmallHeader.HeaderDiv {
+		height:60px;
+		position:fixed;
+		top:0;
+		background:none;
+	}
+	.SmallHeader.HeaderDiv .LogoDiv {
+		width: 100%;
+		left: 0;
+		top: 100%;
+		height: 60px;
+		position: relative;
+		padding-top:0;
+	}
+	.SmallHeader.HeaderDiv .LogoDiv {
+		transform: skew(0deg) rotate(0deg);
+		transition:transform 0s;
+	}
+
+	.SmallHeader.HeaderDiv .LogoDiv .InfoRotate {
+		transform: skew(0deg) rotate(0deg);
+		width: 100%;
+		height: 60px;		 
+	}
+	.SmallHeader.HeaderDiv .LogoDiv .InfoRotate .LogoParent {
+		width:50px;
+	}
+	.SmallHeader.HeaderDiv .LogoDiv .InfoRotate .Logo {
+		position: absolute;
+		height: 48px;
+		background-size:32px;
+		left: 6px;
+		width: 50px;
+		top: 10px;
+	}
+	.SmallHeader.HeaderDiv .LogoDiv .InfoRotate .Language {
+		position:absolute;
+		height:100%;
+		top:4px;
+		left:11px;
+		width:150px;
+		left:calc(50% - 75px);
+	} 
+
+			/*************************************************/
+			.BodyShadow {overflow:hidden !important;}
+			#BellevueMenu {
+				position:absolute;
+				right:-100%;
+				top:0;
+				background:#2c537e;
+				width:100%;
+				height:100%;
+				z-index:999999; 
+				transition:0.5s;
+			}
+			#BellevueMenu .MenuItems {
+				height:100%; 
+				right:20px !important;
+				position:relative;
+			}
+			#BellevueMenu.MenuRightShow {
+				right:0;
+				z-index: 999999999;
+				overflow:hidden;
+			}
+			#BellevueMenu.MenuRightShow .MenuHead {display:block;}
+			#BellevueMenu .MenuItems li {
+				width:100%;
+				text-align:right;
+				margin-bottom:15px !important;
+			}
+			#BellevueMenu .MenuItems li a {
+				color:#fff;    
+				font-size: 19px !important;
+				letter-spacing:2px;
+			}
+			#BellevueMenu .MenuItems li.active a,
+			#BellevueMenu .MenuItems li a:hover {
+				color:#f4bf4f;
+				opacity:1;
+			}
+			/*************************************************/
+
+	.ChooseApartament {
+		left:0;
+		bottom:0;
+	}		
+	.ChooseApartament.ChooseApartament222 {
+		left: 50% !important;
+		bottom: -50px !important;
+		margin-left: -100px !important;
+	}
+	.HomeFirstDiv {
+		padding-right:0;
+		padding-left:0;
+	}
+	.Full100 {
+	    width: 100%;
+	    height: 50%;
+	    top: 25%;
+	    position: relative;
+
+	}
+	
+	.HomePage2 .TitleDiv {
+		height:auto !important
+	}
+	
+ 	.HomeSlideControl {
+ 		display:none;
+ 	}
+ 	.HeaderDiv .LogoDiv {
+ 		padding-bottom:20px;
+		transform: skew(6deg) rotate(6deg);
+ 	}
+	.HeaderDiv .LogoDiv .InfoRotate {
+		padding-left:20px;
+		transform: skew(-6deg) rotate(-6deg);
+	} 
+	.HeaderDiv .LogoDiv {
+		top:-60px;
+		width:100%;
+	}
+	.HeaderDiv .LogoDiv .InfoRotate .HeaderTextParent {
+		height:59px;
+		display:none;
+	}
+	.HeaderDiv .LogoDiv .InfoRotate .Text {
+		font-size: 22px; 
+		padding-right: 50px;
+		padding-top: 26px;
+		line-height: 35px;
+	}
+	.HeaderDiv .LogoDiv .InfoRotate .Language {
+		 
+	}
+	.HeaderDiv .LogoDiv .InfoRotate .Language a {
+		margin-left:10px;
+		margin-right:10px;
+	}
+	.HamburgerDiv {
+		background:
+	}
+
+
+	.HomePage2 {
+		display:block;
+	}
+	.HomePage2 .container {
+		width:100%;
+		padding:0;
+	}
+	.HomePage2 .TitleDiv {
+		font-size: 25px;
+		padding-left: 50px;
+		position:relative;
+		padding-top:10px;
+	}
+	.HomePage2 .TitleDiv::after {
+		left:50px;
+		top:0px;
+		width:40px;
+	}
+	.HomePage2 .ImageDiv {
+		margin-top:20px;
+	}
+	.HomePage2 .BottomInfo {
+		width:100%;
+	}
+	.HomePage2 .BottomInfo .col-sm-4 {
+		display: inline-block;
+		width: 100%;
+	}
+	.HomePage2 .Home2RightInfo {
+		padding-left:60px;
+	}
+    .HomePage2 .Home2RightInfo .Title::after {
+    	width:40px;
+    	right: calc(100% + 18px);
+		top: 49px;
+    }
+
+
+    .HomePage2 {
+    	padding-top:100px;
+    	padding-bottom:0;
+    }    
+    .HomePage2 .ImageDiv {
+    	height:200px;
+    }
+    .HomePage2 .ImageDiv .Background {
+    	height:200px;
+    }
+    .HomePage2 .BottomInfo .Image {
+    	height:180px;
+    	width: 70%; 
+    }
+    .HomeRoomsDiv {
+    	padding-top:50px;
+    	padding-bottom:30px;
+    }
+    .RoomsHomeSlide {
+    	padding-left: 0px;
+		padding-right: 0px;
+    }
+	
+	.RoomsHomeSlide .row {
+		padding-left:15px;
+		padding-right:15px;
+		margin-top:-35px;
+	}
+	.SlideControl {
+		margin-top:55px; 
+		margin-bottom:30px; 
+	}
+	.RoomsHomeSlide .RoomSlideControl {
+		bottom:50px !important;
+		width:100%;
+		text-align:center
+	}
+	.RoomsHomeSlide .DisplayInline {
+		float:none;
+	}
+	
+	
+    .RoomsHomeSlide .col-sm-4 {
+    	padding:0;
+    }
+    .RoomsHomeSlide .Item {
+    	margin-top:30px;
+    }
+    .RoomsHomeSlide .Item .Info {
+    	padding-left:60px;
+    }
+    .RoomsHomeSlide .Item .Info .Title::after {
+		width: 35px;
+		left: -61px;
+		top: 14px;
+    }
+    .RoomSlideControl .HomeSliderArrows {
+    	display:none;
+    }
+    .RoomsHomeSlide .RoomSlideControl {
+    	position:relative;
+    	bottom:0
+    }
+    .HomeRoomsDiv .RoomTopDiv {
+    	position:relative;
+    	top:0;
+    }
+    .HomeRoomsDiv .Title1 {
+    	margin-bottom:0
+    }
+    .HomeRoomsDiv .Text1 {
+    	margin-bottom:0;
+    }
+
+
+    .HomeLastPage {
+    	padding-top:30px; 
+    	padding-left:50px;
+    	padding-bottom:0px;
+    	margin-bottom:0;
+    }
+    .HomeNewsControl {
+    	display:none;
+    }
+    .HomeNewsControlDiv .Title {
+    	font-size:14px;
+    }
+    .HomeNewsControlDiv .BigTitle {
+    	font-size:24px;
+    }
+    .HomeNewsSlide {
+    	margin-left:-60px;
+    	padding-top:20px;
+    }
+    .HomeNewsSlide .col-sm-6 {
+    	padding:0;
+    }
+    .HomeNewsSlide .Item {
+
+    }
+    .HomeNewsSlide .Item .Date::after {
+    	width: 30px;
+    	left: -46px;
+    }
+    .HomeNewsSlide .Item .Date {
+    	margin-bottom:9px;
+    }
+    .HomeNewsSlide .Item .Title {
+    	margin-bottom:15px;
+    }
+
+
+
+
+
+
+	
+
+
+
+    .HomeLastPage .FooterContact {
+	    position: relative !important;
+	    width: calc(100% + 50px);
+	    margin-left: -50px;
+	    bottom:0;
+	    margin-top:15px;
+	} 
+
+	.FooterContact {
+		padding-top:10px;
+	}
+	.FooterContact .ContactInfo {
+		line-height:25px;
+	}
+	.FooterContact .ContactInfo .col-sm-4 {
+		text-align:center;
+	}
+	.Container1 {
+		width:100%;
+	}
+	.FooterBottom .col-sm-6 {
+		width:50%;
+		display:inline-block;
+		float:left;
+	}
+
+	.ApartmentsInfo {
+		width:100%;
+	}
+	.ApartmentBottomList {
+		width:100%;
+		height:auto;
+		padding-left:0;
+	}
+	.ApartmentBottomList .col-sm-3 {
+		width:50%;
+		display:inline-block;
+		float:left;
+	}
+	.ApartmentBottomList .Item {
+		height:55px;
+		padding-left:55px !important;
+		font-size: 10.5px;
+	}
+	.ApartmentBackground {
+		height:100%;
+		width:auto;
+	}
+	.ApartmentBackground img {
+		height:100%;
+	}
+
+	.StageRightDiv {
+		width:100%;
+		background:#eeb552;
+		padding:0;
+		position: relative;
+		margin-top: -50px;
+	}
+	.FloorPageDiv  .StageRightDiv {
+		margin-top:-100px;
+		position:relative;
+		z-index:99;
+	}
+	.StageRightDiv222 {
+		margin-top:-40px !important;
+	}
+	#ScrollStage {
+		padding:10px;
+		padding-top:0
+	}
+	.StageRightDiv .Title {
+		padding:0;
+		margin:0
+	}
+	.StageRightDiv .Title a{
+		display:block;
+		width:100%;
+		text-align:center;
+		color:#fff;
+		text-decoration:none;
+		text-transform:uppercase;
+		font-family:AvenirNextDemiBold;
+		padding:15px;
+		position:relative;
+		z-index:9999;
+	}
+	.StageRightDiv li {
+		width:25%;
+	}
+	.StageRightDiv li a {
+		padding:6px 10px;
+		border:solid #f4d297 1px;
+		margin:10px;
+		color:#fff;
+		font-family:AvenirNextMedium;
+		font-weight:bold;
+	}
+	.StageRightDiv li a span {
+		position:relative;
+		color:#fff;
+	}
+	.StageRightDiv li a span {
+		position:relative;
+		top:2px;
+		font-family:AvenirNextMedium;
+		text-transform:uppercase;
+		font-size:10.5px;
+		font-weight:normal;
+	}
+	.StageRightDiv li a:hover {
+		background:#fff;
+		color:#eeb552;
+	}
+	.StageRightDiv li a:hover span {
+		color:#eeb552
+	}
+
+
+	.TextAndImageDiv .container {
+		padding:0;
+	}
+	.TextAndImageDiv .ImageDiv {
+		width:100%;
+		height:230px;
+	}
+	.BenefitsListDiv {
+		padding-top:40px;
+		margin:0;
+	} 
+	.BenefitsListDiv .Item .Title::after {
+		top:auto !important;
+		bottom:-10px !important;
+	}
+	.BenefitsListDiv .Item {
+		margin-bottom:30px;
+	}
+	.NeighbourHood {
+		padding-bottom:15px;
+		padding-top:27px;
+	}
+	.NeighbourHood .NeighbourHoodListDiv .Item {
+		margin-bottom:30px;
+	}
+	.NeighbourHood .NeighbourHoodListDiv .col-sm-2 {
+		width:100%;
+	}
+	.NeighbourHood .NeighbourHoodListDiv .Title {
+		margin-bottom:24px;
+	}
+	.NeighbourHood .NeighbourHoodListDiv .Title::after {
+		top:31px;
+	}
+	.NeighbourHood .NeighbourHoodListDiv .Title br {display:none;}
+	.NeighbourHood .NeighbourHoodListDiv .Icon {
+		margin-bottom:15px;
+	}
+	.NeighbourHood .NeighbourHoodListDiv .Icon img {
+		height:40px;
+	}
+	.TextAndImageDiv .Info .Icon {
+		display:inline-block;
+		float:left;
+	}
+	.TextAndImageDiv .Info .Title {
+		font-size:18px;
+		line-height:10px;
+		display:inline-block;
+		float:left;
+		width:auto;
+		margin-left:16px;
+	}
+	.InfrastructurePageDiv .TextAndImageDiv .Info .Title {		 
+		margin-left:16px !important;
+		margin-top:5px;
+	}
+	.InfrastructurePageDiv .TextAndImageDiv .Info .Title:after {
+		bottom: -18px;
+		left: -3px;
+		width: 50px;
+	}
+	.AboutPageDiv .TextAndImageDiv .Info .Title {
+		margin-left:0;
+		margin-bottom:25px;
+	}
+	.TextAndImageDiv .Info .Title::after {
+		bottom: -34px;
+		left: -47px;
+		width: 30px;
+	}
+	.HeightAuto1 {
+		max-height:800px !important;
+	}
+	#section1 .TextAndImageDiv_9 .ImageDiv .Background::after {
+		content: '';
+		position: absolute;
+		top: 0;
+		left: 0px;
+		width: 0;
+		height: 0;
+		border-style: solid; 
+		border-left: 660px solid transparent;
+		border-right: 0px solid transparent;
+		border-top: 50px solid #f8f5f0;
+		border-bottom: 0 solid transparent;
+
+	}
+	#Overview .TextAndImageDiv .ImageDiv .Background::after,
+	#Parking .TextAndImageDiv .ImageDiv .Background::after,
+	#Spa .TextAndImageDiv .ImageDiv .Background::after	{
+		content: '' !important;
+		position: absolute !important;
+		top: 0 !important;
+		left: 0px !important;
+		width: 0 !important;
+		height: 0 !important;
+		border-style: solid !important; 
+		border-left: 660px solid transparent !important;
+		border-right: 0px solid transparent !important;
+		border-top: 50px solid #fff !important;
+		border-bottom: 0 solid transparent !important;
+	}
+	.FullImageDiv,
+	.ParallaxBackground	{
+		height:300px;
+	}
+	.TextAndImageDiv .Info .Text {
+		margin-top: -6px;
+		display:inline-block;
+		width:100%
+	}
+	.TextAndImageDiv .ImageDiv.Position1 {
+		top:12px;
+	}
+	.TextAndImageDiv_2 {
+		padding-top:30px;
+	}
+	.TextAndImageDiv_2 .ImageDiv {
+		left:0;
+	}
+	.TechnilDetailsDiv {
+		padding-bottom:0;
+		padding-top:25px;
+	}
+
+	.TechnilDetailsListDiv .Item {
+		margin-bottom:30px;
+	}
+	.TechnilDetailsListDiv .Item .Icon {
+		margin-bottom:15px;
+	}
+	.TechnilDetailsListDiv .Item .Icon img {
+		height:40px;
+	}
+	.TechnilDetailsListDiv .Item .Title {
+		margin-bottom:24px;
+	}
+	.TechnilDetailsListDiv .Item .Title::after {
+		top:31px;
+	}
+	.TextAndImageDiv {
+		padding-top:27px;
+	}
+	.TextAndImageDiv_3 .ImageDiv {
+		top:0 !important;
+	}
+
+	.InfrastructurePageDiv .TextAndImageDiv {
+		margin-top:0px;
+	}
+	.TextAndImageDiv_5 .ImageDiv {
+		left:0 !important;
+	}
+	.ResponsivePosition {
+		margin-top:30px;
+	}
+
+	.FloorPageDiv .FloorInfo {
+		width:100%;
+	}
+	.FloorPageDiv .FloorInfo .FloorSliderDiv {
+		width:100%;
+		height:415px;
+	}
+	.FloorPageDiv .FloorInfo .FloorSliderDiv .BigImageSLider {
+	    padding: 20px;
+	    text-align: center;
+	}
+	.FloorPageDiv .FloorInfo .FloorSliderDiv .BigImageSLider .Image {
+		height:250px;
+	}
+	.FloorPageDiv .FloorInfo .FloorSliderDiv .SlideThumbnail {
+		top:-18px;
+		padding-left: 40px;
+		padding-right: 40px;
+	}
+	.FloorPageDiv .FloorInfo .FloorSliderDiv .SlideThumbnail .Item {
+		margin:10px;
+	}
+	
+	.FloorSliderDiv .leftArrow {
+		left:13px !important;
+	}
+	.FloorSliderDiv .RightArrow {
+		right:13px !important;
+		
+	}
+
+	.FloorSliderDiv .SlideThumbnail .Item .Image {
+		height:100px;
+	}
+
+	.FloorRightInfo {
+		width:100%;
+		padding: 30px 60px 30px 60px;
+	}
+	.FloorRightInfo .TopTitle {
+		font-size:40px;
+	}
+	.FloorRightInfo .TopTitle::after {
+		top: 28px;
+		width: 35px;
+		left: -50px;
+	}
+
+	#Overview {
+		padding-top:0;
+	}
+	.AboutPageDiv {
+		margin-top:90px;
+	}
+
+	.ForDesktop {
+    	display:none;
+    }
+	.ForMobile {
+		display:block;
+	}
+
+	#SelectOnChangeValue {
+		width:100%;
+		height:42px;
+		background:#eeb552 url('../img/down_arrow.png') no-repeat;
+		background-position: 93%;
+		position: fixed;
+		top: 60px;
+		left: 0;
+		line-height:42px;
+		padding-left:12px;
+		font-family:AvenirNextDemiBold;
+	}
+	#SelectOnChangeValue select {		
+		width: 130%;
+		border:none;
+		background:none;
+		text-transform:uppercase;
+		color:#fff;
+	}
+
+	.FloorRightInfo .LeftInfo2 {
+		padding-top:5px;
+		width:100%;
+	}
+	.ApartamentParameters {
+		margin-top:10px; 
+		width:100%;
+		margin-bottom:30px;
+	}
+	.ApartamentParameters .Item {
+		width:72% !important;
+	}
+	.ApartamentParameters  .Item:nth-child(2) {
+		width:28% !important;
+	}
+	.SocialLinks {
+		margin-left:0 ;
+		margin-top:17px;
+		margin-bottom:10px;
+	}
+	.SocialLinks a {
+		display:none;
+		
+	}
+
+	.FloorBottomPosition {
+		left: 0;
+		width: 100%;
+		bottom: 0;
+		text-align: center;
+		background: #fff;
+		padding-bottom: 20px;
+		padding-top: 20px;
+	}
+	.FloorBottomPosition .GrayButton {
+		display:none;
+		text-align:center;
+	}
+
+	.FloorRightInfo .FloorImagesParent {
+		width:100%;
+		left:0;
+	}
+	.FloorImages {
+		margin-bottom:100px;
+		width:100%;
+		position:relative;
+		top:-40px;
+	}
+	.FloorRightInfo222 .FloorImages  {
+		top:20px
+	}
+	.FloorImagesMobile {
+		margin-top:-30px;
+		margin-bottom:0
+	}
+	.FloorImages .Background {
+		width:100%;
+	}
+
+	.ApartmentInsideDiv {
+		display:none !important; 
+	}
+
+	.FloorRightInfo .TopTitle span {
+		top:-15px;
+	}
+	.FloorInfoList {
+		display:none;
+	}
+	
+	#Overview .Info {
+		padding:0 15px;
+	}
+	.TextAndImageDiv_5 .Info {
+		padding-left:0;
+	}
+	.BenefitsDiv {
+		padding-top:20px;
+		margin-bottom:20px;
+		padding-bottom:0
+	}
+	.TextAndImageDiv_7 .ImageDiv {
+		left:0
+	}
+	.BenefitsListDiv {
+		padding-top:17px;
+	}
+	.BenefitsListDiv .Item .Title {
+		height:auto !important;
+		margin-bottom:15px
+	}
+	
+	.PageTitleOrange {
+		font-size:24px;
+	}
+	.TechnilDetailsListDiv {
+		margin-top:45px;
+	}
+	.TechnilDetailsDiv .col-sm-12 {
+		margin-bottom:0;
+	}
+	.TechnilDetailsListDiv .Item .Icon {
+		display:inline-block;
+		float:left;
+	}
+	.TechnilDetailsListDiv .Item .Title {
+		display:inline-block;
+		float:left;
+		margin-left: 16px;
+	}
+	.TechnilDetailsListDiv .Item .Text {
+		display:inline-block;
+		width:100%;
+	}
+	.SmallTextWIdth {
+		margin-bottom:30px;
+	}
+	.SmallTextWIdth div {
+		width:100%;
+	}
+	.BenefitsListDiv .Title br {
+		display:none;
+	}
+	
+	#Project {
+		margin-top:50px;	
+	}
+	
+	#Spa {
+		padding-top:0px;
+	}
+	
+	#CafeBar {
+		
+	}
+	#CafeBar .col-sm-5 {
+		float:none;
+	}
+	#CafeBar .TextAndImageDiv_7 .Info {
+		padding:0;
+	}
+	#CafeBar .TextAndImageDiv .ImageDiv {
+		    margin-top: 15px;
+	}
+	
+	.InfrastructurePageDiv {
+		margin-top:100px;
+	}
+	
+	
+	.FloorInfoWindow {
+		display:none !important
+	}
+	
+	.ContactPageDiv {
+		padding-top:50px;
+		margin-bottom:50px;
+	}
+	.ContactPageDiv .TextAndImageDiv .Info .Title {
+		margin-left:0;
+		margin-bottom:30px;
+	}
+	
+	#ContactMap {
+		top:0
+	}
+	
+	.TextAndImageDiv_11 .ImageDiv .Background::after {
+		border-color: transparent transparent transparent #fff;
+	}
+	.TextAndImageDiv_5 .ImageDiv .Background::after {
+		 
+	}
+	.PageTitleOrange div span {
+		padding-left: 15px;
+		padding-right: 15px;
+		font-size: 10px;
+	}
+	.ResponsiveAbout .Info {
+		padding:0 !important;
+	}
+	.ResponsiveAbout .col-sm-6.padding_0 {
+		padding:0 15px !important;
+	}
+	
+	.ApartmentsPageDiv {
+		display:inline-block;
+		float:left;
+		 
+	}
+	.ApartmentsPageDiv .MapAreaImage,
+	.ApartmentsPageDiv .MapAreaImage .Background {
+		height:590px
+	}
+	
+	.ApartmentsPageDiv .ApartmentsInfo {
+		overflow:hidden;
+		height:590px
+	}
+	.ApartmentsPageDiv .ApartmentsInfo .ApartmentBackground {
+		height: 100%;
+		background-position: center center !important;
+		background-size: auto 100% !important;
+		background:url('../img/big_image_1111.png');
+		
+	}
+	#MapAreaImageID {
+		display:none;
+	}
+	
+	.ApartmentBackground #InsideMenu {
+		width: 100%;
+		height: 100%;
+		position: absolute;
+		z-index: 9999;
+		margin: 0;
+		padding: 0;
+	}
+	.ApartmentBackground #InsideMenu a {
+		display: block;
+		width: 100%;
+		height: 100%;
+	}
+	
+	
+		
+
+	.ApartView .Item .Icon::after {
+		display:none;
+	}
+	.ApartView .Item .Icon {
+		margin-right:15px;
+	}
+	.FloorRightInfo .SpaceDiv div {
+		top:-2px;
+	}
+	.ApartamentParameters .Item div {
+		top:3px;
+	}
+	.MobileRIghtInfo {
+		margin-bottom:25px;
+	}
+										/******************/
+										.ApartView .Item.Item1 {
+											transform:rotate(-41deg);
+											position: absolute;
+											top: 38px !important;
+											left: 31px;
+										}
+										.ApartView .Item.Item2 {
+											transform:rotate(-90deg);
+											position:absolute;
+											left: -124px !important;
+											top: 234px;
+										}
+										.ApartView .Item.Item3 {
+											transform:rotate(-41deg);
+											position:absolute;
+											top: 254px !important;
+											left: 71px;		
+										}
+										.ApartView .Item.Item4 {
+											transform:rotate(90deg);
+											position:absolute;
+											top: 144px;
+											left: calc(100% - 82px);		
+										}			
+
+										.ApartView .Item.Item5 {
+											transform:rotate(0deg);
+											position: absolute;
+											    top: 0px;
+												left: 4px;
+										}
+										.ApartView .Item.Item6 {
+											transform:rotate(-90deg);
+											position:absolute;
+											left: -127px;
+											top: 77px;
+										}
+										.ApartView .Item.Item7 {
+											transform:rotate(-41deg);
+											position:absolute;
+											top: 152px;
+											left:28px;
+										}
+										
+										.FloorMapArea {
+											height:400px;
+										}
+	
+	
+	
+
+}
+
+
+
+
+
+/********************************************************************/
+@media (max-height:700px) { 
+	.RoomsHomeSlide .RoomSlideControl {
+		bottom:44px;
+	}
+	.HomeRoomsDiv {
+		padding-top: 30px;
+		padding-bottom: 175px;
+	}
+	
+	.RoomsHomeSlide .Item .Info {
+		padding-left:50px;
+	}
+	.RoomsHomeSlide .Item .Info .Title:after {
+		width:30px;
+		left:-50px;
+	}
+	.HomeRoomsDiv .FooterContact {
+		padding-top: 15px;
+	}
+	.FooterContact .FooterBottom {
+		margin-top:10px;
+	}
+}
+/********************************************************************/
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 992px){ 
+
+.RequestCallButtonParent {
+    animation: play22 1.5s ease infinite;
+    -webkit-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    -ms-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+.RequestCallButtonParent:hover{
+	
+}
+@keyframes play22 {
+
+    0% {
+        transform: scale(1);
+    }
+    15% {
+        box-shadow: 0 0 0 5px rgba(253, 161, 0, 0.4);
+    }
+    25% {
+        box-shadow: 0 0 0 10px rgba(253, 161, 0, 0.4), 0 0 0 20px rgba(253, 161, 0, 0.2);
+    }
+    25% {
+        box-shadow: 0 0 0 15px rgba(253, 161, 0, 0.4), 0 0 0 30px rgba(253, 161, 0, 0.2);
+    }
+
+}
+
+
+	.RightHeader .HamburgerDiv  {
+		display:none;
+	}
+	.RoomsHomeSlide .slick-slide:nth-child(4),
+	.RoomsHomeSlide .slick-slide:nth-child(6),
+	.RoomsHomeSlide .slick-slide:nth-child(8),
+	.RoomsHomeSlide .slick-slide:nth-child(14)  {
+	     position:relative;
+	     top:-50px;
+	}
+
+	 
+
+	.StageRightDiv li a span {
+		position:absolute;
+		right:100%;
+		top:0;
+		background:#fff;
+		padding:10px;
+		color:#2c537e;
+		visibility:hidden;
+		opacity:0;
+		transition:0.5s;
+	}
+
+	.SmallHeader.HeaderDiv .LogoDiv .InfoRotate {
+	 	transition:1s;
+	}
+	 
+	
+	.ForDesktop {
+    	display:block;
+    }
+	.ForMobile {
+		display:none;
+	}
+	 
+ 
+ 
+ 
+
+/*.fullpage-wrapper {
+	width: 100%!important;
+	transform: none!important;
+}
+
+.fp-section {
+	width: 100%!important;
+	position: absolute;
+	left: 0;
+	top: 50%;
+	visibility: hidden;
+	opacity: 0;
+	transition: all .7s ease-in-out;
+}
+
+.fp-section.active {
+	visibility: visible;
+	opacity: 1;
+	top:0;
+}
+*/
+
+
+}
+
+
+
+
+
+
+@media (max-width:768px) {
+	.FloorMapArea {
+		width:250px;
+		margin:0 auto;
+	}
+    .FloorMapArea .Background {
+		width:100%;
+		max-height:100% !important;
+		background-repeat:no-repeat !important;
+		background-size:100% auto !important;
+	}   
+	#MapAreaImageID {
+		width: 120%;
+	}
+}
+
+@media (min-width: 1280px) {
+	.FloorMapArea {
+		width:250px;
+		margin:0 auto;
+	}
+    .FloorMapArea .Background {
+		width:100% !important;
+		max-height:100% !important;
+		background-repeat:no-repeat !important;
+	} 
+	.ApartView .Item.Item1 {
+		transform:rotate(-41deg);
+		position: absolute;
+		top: 49px;
+		left: 23px;
+	}
+	.ApartView .Item.Item2 {
+		transform:rotate(-90deg);
+		position:absolute;
+		left: -127px;
+		top: 276px;
+	}
+	.ApartView .Item.Item3 {
+		transform:rotate(-41deg);
+		position:absolute;
+		top: 287px;
+		left: 35px;
+	}
+	.ApartView .Item.Item4 {
+		transform: rotate(90deg);
+		position: absolute;		
+		top: 111px;
+		left: calc(100% - 80px);
+	}
+	
+	
+	.ApartView .Item.Item5 {
+		transform:rotate(0deg);
+		position: absolute;
+		top: 3px;
+		left: 0;
+	}
+	.ApartView .Item.Item6 {
+		transform:rotate(-90deg);
+		position:absolute;
+		left: -127px;
+		top: 128px;
+	}
+	.ApartView .Item.Item7 {
+		transform:rotate(-41deg);
+		position:absolute;
+		top: 177px;
+		left: 0px;
+	}
+}
+
+ 
+
+@media (min-width: 1280px) {
+   .FloorMapArea {
+		width:250px;
+		margin:0 auto;
+	}
+    .FloorMapArea .Background {
+		width:100% !important;
+		max-height:100% !important;
+		background-repeat:no-repeat !important;
+	}   
+	
+	.HomeRoomsDiv .RoomTopDiv {
+		top:20px !important;
+		width:100%;
+		z-index:99999;
+	}
+	.HomePage2 .container {
+		height:400px;
+	}
+}
+
+@media (min-width: 1440px) {
+	
+	.FloorMapArea {
+		width:250px;
+		margin:0 auto; 
+	}
+    .FloorMapArea .Background {
+		width:100% !important;
+		max-height:100% !important;
+		background-repeat:no-repeat !important;
+	}  
+	
+	.RoomsHomeSlide .Item .Image {
+		height:300px;
+	}
+	.ImageSlideUp2 {
+		height:300px !important;
+	}
+	
+}
+
+
+@media (max-width: 1440px) {
+	.HomePage2 .ImageDiv,
+	.ImageSlideUp1,
+	.HomePage2 .ImageDiv .Background {
+		height:400px !important;
+	} 
+} 
+
+@media (min-width: 1680px) {
+	/*.FloorMapArea {
+		width:250px;
+		margin:0 auto;
+	}
+    .FloorMapArea .Background {
+		width:100% !important;
+		max-height:100% !important;
+		background-repeat:no-repeat !important;
+	} 
+	*/
+}
+
+
+
+
+
+
+@media (min-width: 2560px) {
+	/*.FloorMapArea {
+		width:300px;
+		margin:0 auto;
+	}
+    .FloorMapArea .Background {
+		width:200px;
+		max-height:100% !important;
+		background-repeat:no-repeat !important;
+	} 
+	*/
+}
+
+@media (min-width: 1920px) {
+	 /*
+	.FloorMapArea {
+		width:250px;
+		margin:0 auto;
+	}
+	.FloorMapArea .Background {
+		width:400px !important;
+		max-height:100% !important;
+		background-repeat:no-repeat !important;
+		}
+	
+	
+	.FloorMapArea .Background {
+		width:400px;
+		max-height:100%;
+		background-repeat:no-repeat;
+	}
+	*/
+	
+	/*
+	.ApartView .Item.Item1 {
+		top: 123px;
+		left: 75px;
+	}
+	.ApartView .Item.Item2 {
+		left: -130px;
+		top: 449px;
+	}
+	.ApartView .Item.Item3 {
+		top: 433px;
+		left: 146px;
+	}		
+	.ApartView .Item.Item4 {		
+		top: 177px;
+		left: calc(100% + 73px);
+	}
+	
+	.ApartView .Item.Item5 { 
+		top: 24px;
+		left: 23px;
+	}
+	.ApartView .Item.Item6 { 
+		left: -127px;
+		top: 220px;
+	}
+	.ApartView .Item.Item7 { 
+		top: 290px;
+		left: 47px;
+	}
+	*/
+}
+
+
+
+
+
+
+
+ .OverflowHidden {
+	overflow:hidden !important;
+	width:100%;
+	
+}
+
+.HomePage2 .TitleDiv {
+	height:0;
+	overflow:hidden;
+	transition:1.5s;
+}
+
+
+
+.ImageSlideUp1 { 
+    height: 400px;
+	width:100%;
+	position:relative;
+}
+
+
+.ImageSlideUp2  {
+	width: 100%;
+    overflow: hidden;
+    height: 220px;
+	position:relative
+}
+
+
+.HomePage2 .Home2RightInfo .Text {
+	height:0;
+	width:100%;
+	overflow:hidden;
+	transition:1s;
+}
+
+
+.Height200 {
+	height:200px;
+	width:100%;
+}
+
+.Height270 {
+	height:270px;
+	width:100%;
+	transition:1.5s;
+}
+
+.HeightAuto1 {
+	height:400px !important;
+	max-height: 500px; /*auto*/
+	overflow:visible; 
+}
+.HeightAuto2 {
+	height:225px !important;
+	max-height: 500px; /*auto*/
+	overflow:visible
+}
+
+.MyDivUp .Background { 
+	top:-300px !important; 
+	transition:1.5s;
+	position:relative;
+}
+.MyDivDown .Background { 
+	bottom:-50px !important; 
+	transition:1.5s;
+	position:relative;
+}
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width:992px) {
+
+	.fullpage-wrapper {
+		width: 100%!important;
+		transform: none!important;
+	}
+	 
+	.fp-section {
+		width: 100%!important;
+		position: absolute; 
+		left: 0;
+		top: 0;
+		visibility: hidden;
+		opacity: 0; 
+		transition-property: all; 
+	}
+	.section {	
+		overflow:hidden;
+		width:100%;
+		height:100%;
+	}
+	.fp-section.active {
+		visibility: visible;
+		position:relative;
+		opacity: 1;
+		transition-property: all; 
+	   
+	}
+
+} 

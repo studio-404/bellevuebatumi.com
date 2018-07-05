@@ -1,0 +1,12 @@
+@media (min-width:992px) {
+
+	.fp-section {
+		transition-duration: 0.3s !important;
+		transition-delay: 0.3s !important;
+	}
+
+	.fp-section.active {
+		transition-duration: 0.3s !important;
+		transition-delay: 0.3s !important;
+	}
+} 

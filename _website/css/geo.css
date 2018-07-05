@@ -1,0 +1,141 @@
+
+.InsideMenu li a {
+	font-family:ArchyedtBold;
+	font-size: 14px;
+}
+
+
+.TextAndImageDiv .Info .Text {
+	font-family:DejaVuSans;
+	font-size:11.5px;
+	line-height:20px;
+	font-weight:normal
+}
+
+.BenefitsListDiv .Item .Title {
+	font-family:ArchyedtBold;
+	font-size: 18px;
+    line-height: 22px;
+}
+.BenefitsListDiv .Item .Title:after {top:70px;}
+.BenefitsListDiv .Item .Text {
+	font-family:DejaVuSans;
+	line-height: 20px;
+    font-size: 12px;
+}
+
+
+.TechnilDetailsListDiv .Item .Title {
+	font-family:ArchyedtBold;
+	font-size: 18px;
+    line-height: 22px;
+}
+.TechnilDetailsListDiv .Item .Text {
+	font-family:DejaVuSans;
+	line-height: 20px;
+    font-size: 12px;
+}
+
+.PageTitleOrange div span {
+	font-family:DejaVuSansOblique;
+	font-weight:normal;
+	color:#2c537e;
+}
+
+
+.RoomsHomeSlide .Item .Info .Text {
+	font-family:DejaVuSansCondensed;
+}
+
+
+.TextAndImageDiv .Info .Text {
+	font-family:DejaVuSans;
+	line-height: 20px;
+    font-size: 12px;
+	
+}
+.HomePage2 .Home2RightInfo .Text {
+	font-family:DejaVuSansCondensed;
+	font-size:13px;
+}
+.ChooseApartament {
+	font-family:ArchyedtBold;
+	font-size:15px;
+}
+
+.InfoWindow span,
+.InfoWindow div,
+.InfoWindow label {
+	font-family:ArchyedtBold;
+	font-size:15px;
+}
+
+.ApartmentBottomList .Item {
+	font-family:DejaVuSansCondensed;
+}
+
+#SelectOnChangeValue select {
+	font-family:ArchyedtBold;
+	font-size: 20px;
+	padding-top: 7px;
+}
+
+.HomePage2 .TitleDiv {
+	padding-right:0;
+}
+.HomePage2 .TitleDiv span {
+	font-family:ArchyedtBold;
+}
+
+
+.FloorRightInfo .TopTitle {
+	font-family:ArchyedtBold;
+}
+
+.ApartView .Item span {
+	font-family:DejaVuSansCondensed;
+	font-size:10px;
+}
+
+.StageRightDiv li a {
+	font-family:DejaVuSansCondensed;
+}
+
+.FloorInfoList .Item .RoomNumber {
+	font-family:DejaVuSansCondensed;
+}
+
+.StageRightDiv li a span {
+	font-family:DejaVuSansCondensed;
+	font-size:10px;
+}
+
+.FloorRightInfo .SpaceDiv span {
+	font-family:DejaVuSansCondensed;
+}
+
+.ApartamentParameters .Item span {
+	font-family:DejaVuSansCondensed;
+}
+.OrangeButton {
+	font-family:DejaVuSansCondensed
+}
+.OrangeButton span {
+	font-family:ArchyedtBold;
+	
+}
+
+.InputGroup label {
+	color: #676767;
+	font-family: ArArchyRegular;
+}
+
+
+.FloorInfoList .Item .ApartSize label {
+	font-family:DejaVuSans
+}
+
+.StageRightDiv .Title a {
+	font-family:ArchyedtBold;
+	font-size:16px;
+}

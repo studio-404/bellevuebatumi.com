@@ -1,0 +1,125 @@
+@font-face {
+	font-family: 'CalibriBold';
+	src: url('../fonts/Calibri Bold.eot');
+	src: local('☺'), url('../fonts/Calibri Bold.woff') format('woff'), 
+	url('../fonts/Calibri Bold.ttf') format('truetype'), 
+	url('../fonts/Calibri Bold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Calibri';
+	src: url('../fonts/Calibri.eot');
+	src: local('☺'), url('../fonts/Calibri.woff') format('woff'), 
+	url('../fonts/Calibri.ttf') format('truetype'), 
+	url('../fonts/Calibri.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'ArchyedtBold';
+	src: url('../fonts/archyedt-bold.eot');
+	src: local('☺'), url('../fonts/archyedt-bold.woff') format('woff'), 
+	url('../fonts/archyedt-bold.ttf') format('truetype'), 
+	url('../fonts/archyedt-bold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+ 
+
+@font-face {
+	font-family: 'AvenirNextDemiBold';
+	src: url('../fonts/Avenir Next Demi Bold.eot');
+	src: local('☺'), url('../fonts/Avenir Next Demi Bold.woff') 
+	format('woff'), url('../fonts/Avenir Next Demi Bold.ttf') format('truetype'), 
+	url('../fonts/Avenir Next Demi Bold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+} 
+
+@font-face {
+	font-family: 'AvenirNextBoldItalic';
+	src: url('../fonts/Avenir Next Bold Italic.eot');
+	src: local('☺'), url('../fonts/Avenir Next Bold Italic.woff') format('woff'), 
+	url('../fonts/Avenir Next Bold Italic.ttf') format('truetype'), 
+	url('../fonts/Avenir Next Bold Italic.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'AvenirNextRegular';
+	src: url('../fonts/Avenir Next Regular.eot');
+	src: local('☺'), url('../fonts/Avenir Next Regular.woff') format('woff'), 
+	url('../fonts/Avenir Next Regular.ttf') format('truetype'),
+	 url('../fonts/Avenir Next Regular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'AvenirNextMedium';
+	src: url('../fonts/AvenirNext-Medium.eot');
+	src: local('☺'), url('../fonts/AvenirNext-Medium.woff') format('woff'), 
+	url('../fonts/AvenirNext-Medium.ttf') format('truetype'), 
+	url('../fonts/AvenirNext-Medium.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'AvenirNextMediumItalic';
+	src: url('../fonts/Avenir Next Medium Italic.eot');
+	src: local('☺'), url('../fonts/Avenir Next Medium Italic.woff') format('woff'), 
+	url('../fonts/Avenir Next Medium Italic.ttf') format('truetype'), 
+	url('../fonts/Avenir Next Medium Italic.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'DejaVuSans';
+	src: url('../fonts/DejaVuSans.eot');
+	src: local('☺'), url('../fonts/DejaVuSans.woff') format('woff'), 
+	url('../fonts/DejaVuSans.ttf') format('truetype'), 
+	url('../fonts/DejaVuSans.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'DejaVuSansOblique';
+	src: url('../fonts/DejaVuSans-Oblique.eot');
+	src: local('☺'), url('../fonts/DejaVuSans-Oblique.woff') format('woff'), 
+	url('../fonts/DejaVuSans-Oblique.ttf') format('truetype'), 
+	url('../fonts/DejaVuSans-Oblique.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'DejaVuSansCondensed';
+	src: url('../fonts/DejaVuSansCondensed.eot');
+	src: local('☺'), url('../fonts/DejaVuSansCondensed.woff') format('woff'), 
+	url('../fonts/DejaVuSansCondensed.ttf') format('truetype'), 
+	url('../fonts/DejaVuSansCondensed.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+
+@font-face {
+	font-family: 'ArArchyRegular';
+	src: url('../fonts/ar-archy-regular.eot');
+	src: local('☺'), url('../fonts/ar-archy-regular.woff') format('woff'), 
+	url('../fonts/ar-archy-regular.ttf') format('truetype'), 
+	url('../fonts/ar-archy-regular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
